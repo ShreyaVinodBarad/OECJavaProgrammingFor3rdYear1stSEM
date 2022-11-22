@@ -1,3 +1,4 @@
+//Factorial of  a Number
 import java.io.*;
 public class SeventhQuestion{
     public static void main(String args[]) throws IOException{
